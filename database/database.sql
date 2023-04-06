@@ -1,3 +1,4 @@
+--test
 --
 -- PostgreSQL database dump
 --
